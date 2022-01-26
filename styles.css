@@ -61,10 +61,3 @@ body {
 .recipebutton:hover {
     background-color: rgb(182, 182, 159);
 }
-
-.footer {
-    padding: 10px;
-    background-color: rgb(235, 209, 178);
-    margin: 15px;
-    border-radius: 11px;
-}
